@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">panda</string>
+    <string name="username_login">User Name</string>
+    <string name="password_login">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_pass">Forgot Password ?</string>
+</resources>

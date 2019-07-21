@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076076190426",
+    "firebase_url": "https://panda-11e1d.firebaseio.com",
+    "project_id": "panda-11e1d",
+    "storage_bucket": "panda-11e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076076190426:android:9359fe2c7ad93ad0",
+        "android_client_info": {
+          "package_name": "com.dicoding.picodiploma.panda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076076190426-3ui3as2da3i0icb504fdsahn7glpaj5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfKPppmzcUtrKqaktRj3Ht4wK68zrW2mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076076190426-3ui3as2da3i0icb504fdsahn7glpaj5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
